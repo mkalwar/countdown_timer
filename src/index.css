@@ -1,0 +1,17 @@
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  
+}
+html, body {
+  height: 100%;
+  background:linear-gradient(to top, #8a58a1, #afb2ec);
+  background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
